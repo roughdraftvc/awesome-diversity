@@ -1,15 +1,16 @@
-Below is a crowdsourced list of D&I initiatives/groups present at various college campuses, starting with the campuses of 2018 RDV fellows.
+Below is a crowdsourced list of D&I initiatives/groups present at various college campuses, starting with the campuses of 2018 RDV fellows. Some are not explicitly D&I groups but value D&I.
 
 
 | School          | Initiative/Group           | Description            | Link(s)                         |
 | --------------- |----------------------------| -----------------------| ------------------------------- |
+| Babson | ALPFA | Babson chapter of Association of Latino Professionals For America | https://engage.babson.edu/organization/alpfa |
+| Babson | eTower | Community for student entrepreneurs | https://engage.babson.edu/organization/etower |
+| Babson | Babson Code | Group to help students develop technological skill sets to match their entrepreneurial mindsets | https://www.babsoncode.com/ |
+| Babson | Babson Lean In Circle | Lean In chapter that provides a network of professional women with supporting resources to empower and encourage them to achieve | https://www.facebook.com/babsonleanincircle/ |
 | Boston College | Boston College Women's Summit |  One-day summit that aspires to empower women of all backgrounds to realize their individual and collective potential to rise together and enact change | http://www.bcownit.com/ |
 | Boston College | Women in Business | Organization, network, and community of undergraduate female students dedicated to their empowerment and education | http://www.bcwib.com/ |
 | Boston University | Graduate Women in Science and Engineering (GWISE) | Community to support graduate women in STEM fields | http://www.bu.edu/gwise/ |
 | Boston University | Advance, Recruit, Retain & Organize Women in STEM (ARROWS) | Group that organizes, aligns, and vertically integrates programs created to advance women throughout the STEM community at Boston University | http://www.bu.edu/arrows/ |
-| Carnegie Mellon | National Society of Black Engineers | CMU chapter of NSBE | http://www.cmunsbe.com/ |
-| Carnegie Mellon | Society of Hispanic Professional Engineers | CMU chapter of SHPE | http://www.cmushpe.com/ |
-| Carnegie Mellon | Society of Women Engineers | CMU chapter of SWE | http://www.cmuswe.com/ |
 | Brown | Entrepreneurship at the Intersection of Diversity and Inequality | One-day conference on entrepreneurship, diversity, and inequality | https://brownentrepreneurshipconference.splashthat.com/ |
 | Brown | Hack@Brown | Hackathon with a huge focus on diversity | http://2018.hackatbrown.org/ |
 | Brown | Lean In at Brown | Lean In chapter | https://leanincircles.org/chapter/lean-in-at-brown-university |
@@ -17,6 +18,9 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | Brown | WE@Brown | Subset of Brown Entrepreneurship Program focused on women empowerment | http://brownentrepreneurship.com/we-at-brown/ |
 | Brown | WiCS | Group for women in computer science | http://cs.brown.edu/people/orgs/wics/ |
 | Brown | Women in Business | Group for women in business | http://www.brownuniversitywib.com/ |
+| Carnegie Mellon | National Society of Black Engineers | CMU chapter of NSBE | http://www.cmunsbe.com/ |
+| Carnegie Mellon | Society of Hispanic Professional Engineers | CMU chapter of SHPE | http://www.cmushpe.com/ |
+| Carnegie Mellon | Society of Women Engineers | CMU chapter of SWE | http://www.cmuswe.com/ |
 | Harvard | four94 | Organization that provides mentorship, community, and launchpad for up-and-coming female founders | www.four94.org | 
 | Harvard | WECode | WiCS CS Conference (largest in the nation) | http://www.wecodeharvard.com/ |
 | Harvard | WiCS | Group for women in CS | http://www.harvardwics.com/ |
