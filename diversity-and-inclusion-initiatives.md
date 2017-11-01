@@ -3,6 +3,15 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 
 | School          | Initiative/Group           | Description            | Link(s)                         |
 | --------------- |----------------------------| -----------------------| ------------------------------- |
+| Boston College |
+| Boston College |
+| Boston College |
+| Boston University |
+| Boston University |
+| Boston University |
+| Carnegie Mellon |
+| Carnegie Mellon |
+| Carnegie Mellon |
 | Brown | Entrepreneurship at the Intersection of Diversity and Inequality | One-day conference on entrepreneurship, diversity, and inequality | https://brownentrepreneurshipconference.splashthat.com/ |
 | Brown | Hack@Brown | Hackathon with a huge focus on diversity | http://2018.hackatbrown.org/ |
 | Brown | Lean In at Brown | Lean In chapter | https://leanincircles.org/chapter/lean-in-at-brown-university |
@@ -19,6 +28,9 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | HBS | Women's Student Association (WSA) | Club to connect, empower, and celebrate the next generation of women leaders | http://wsahbsclub.com
 | MIT | GWAMIT | Group for graduate women at MIT | http://www.gwamit.org/ |
 | MIT | GW6 | Group for graduate women in Course 6 (EECS) | http://gw6.scripts.mit.edu/ |
+| Northeastern | Northeastern University Women in Technology (NUWIT) | Special interest group that supports women who study or are interested in Computer and Information Science | https://nuwit.ccs.neu.edu/ |
+| Northeastern | 
+| Northeastern | 
 | NYU | Alliance for Diversity in Science and Engineering | Graduate club for diversity in tech | https://www.facebook.com/NYUADSE |
 | NYU | National Society of Black Engineers | Student chapter of NSBE | https://www.nyunsbe.org/ |
 | NYU | oSTEM | Tech group for LGBTQ | https://www.facebook.com/ostematnyu/ |
