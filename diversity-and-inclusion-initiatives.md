@@ -21,6 +21,9 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | Carnegie Mellon | National Society of Black Engineers | CMU chapter of NSBE | http://www.cmunsbe.com/ |
 | Carnegie Mellon | Society of Hispanic Professional Engineers | CMU chapter of SHPE | http://www.cmushpe.com/ |
 | Carnegie Mellon | Society of Women Engineers | CMU chapter of SWE | http://www.cmuswe.com/ |
+| CBS | Black Business Students Association (BBSA) | Organization that supports the personal and professional development of the black student body at CBS | http://www.columbiabbsa.com/ |
+| CBS | ClusterQ | LGBTQ business alliance | http://cbsclusterq.com/ | 
+| CBS | Columbia Women in Business (CWIB) | Organization that fosters a lifelong community that enables all Columbia Business School (CBS) women to achieve their personal and professional aspirations | https://www.cbswomen.org/our-mission |
 | Harvard | four94 | Organization that provides mentorship, community, and launchpad for up-and-coming female founders | www.four94.org | 
 | Harvard | WECode | WiCS CS Conference (largest in the nation) | http://www.wecodeharvard.com/ |
 | Harvard | WiCS | Group for women in CS | http://www.harvardwics.com/ |
