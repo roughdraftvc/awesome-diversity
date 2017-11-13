@@ -24,6 +24,7 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | CBS | Black Business Students Association (BBSA) | Organization that supports the personal and professional development of the black student body at CBS | http://www.columbiabbsa.com/ |
 | CBS | ClusterQ | LGBTQ business alliance | http://cbsclusterq.com/ | 
 | CBS | Columbia Women in Business (CWIB) | Organization that fosters a lifelong community that enables all Columbia Business School (CBS) women to achieve their personal and professional aspirations | https://www.cbswomen.org/our-mission |
+| Cornell Tech | WiTNY | NY initiative for women in technology and entrepreneurship | https://tech.cornell.edu/impact/witny |
 | Harvard | four94 | Organization that provides mentorship, community, and launchpad for up-and-coming female founders | www.four94.org | 
 | Harvard | WECode | WiCS CS Conference (largest in the nation) | http://www.wecodeharvard.com/ |
 | Harvard | WiCS | Group for women in CS | http://www.harvardwics.com/ |
@@ -48,10 +49,15 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | NYU | WinC | Group for women in computing | http://nyuwinc.org/ |
 | Olin | OPEN | Club to foster community and support a safe and supportive environment for LGBTQ people and allies | http://open.olin.edu/ |
 | Olin | Stay Late and Create (SLAC) | Club that's building community around tutorials, workshops, and group project meetings in an inclusive and collaborative environment | http://slac.io/ |
-| Olin | SWE | Society of women engineers | https://www.facebook.com/olincollegeswe/ |
+| Olin | Society of Women Engineers | Olin SWE chapter | https://www.facebook.com/olincollegeswe/ |
+| Penn | Wharton Women | Organization that facilitates the personal and career development of females in business | http://www.whartonwomen-penn.com/ |
+| Penn | Black Wharton | A dynamic organization that seeks to develop professional, social, and academic opportunities for African-American undergraduates interested in business or business-related issues | http://www.blackwhartonundergrad.com/ |
+| Penn | Wharton Latino | Undergraduate organization established with the purpose of promoting and bringing together the Latino community and those interested in Latin America | http://www.whartonlatino.org/ | 
+| Penn | Society of Women Engineers | Penn SWE chapter | https://fling.seas.upenn.edu/~swe/cgi-bin/ |
 | Tufts | National Society of Black Engineers | Student chapter of NSBE | https://sites.tufts.edu/nsbe/ |
 | Tufts | Out in Science, Technology, Engineering and Mathematics (OSTEM) | Club for students in STEM majors who identify as LGBTQ | https://www.facebook.com/tufts.ostem |
 | Tufts | WiCS | Group for women in computer science | http://tuftswics.github.io/ |
 | Wellesley | CS Club | Club for computer science | https://www.facebook.com/Wellesley-CS-Club-856871510992038/ |
 | Wellesley | WeStart | Club for entrepreneurship | https://www.facebook.com/wellesleystartup/ |
 | Wellesley | WHACK | Hackathon that celebrates diversity in tech | http://wellesleyhacks.org/ |
+| Yale | Smart Women Securities | Women's finance network and group | http://www.smartwomansecurities.com/yale/ |
