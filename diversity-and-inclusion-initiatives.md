@@ -21,9 +21,14 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | Carnegie Mellon | National Society of Black Engineers | CMU chapter of NSBE | http://www.cmunsbe.com/ |
 | Carnegie Mellon | Society of Hispanic Professional Engineers | CMU chapter of SHPE | http://www.cmushpe.com/ |
 | Carnegie Mellon | Society of Women Engineers | CMU chapter of SWE | http://www.cmuswe.com/ |
+| Columbia | Columbia Women's Business Society | An undergraduate women's organization that aims to create a business leadership network between Columbia dstudents and female professionals in New York City and beyond | http://columbiawomensbusinesssociety.org/ |
+| Columbia | Society of Women Engineers | Columbia chapter of SWE | http://www.seas.columbia.edu/swe/ |
 | CBS | Black Business Students Association (BBSA) | Organization that supports the personal and professional development of the black student body at CBS | http://www.columbiabbsa.com/ |
 | CBS | ClusterQ | LGBTQ business alliance | http://cbsclusterq.com/ | 
 | CBS | Columbia Women in Business (CWIB) | Organization that fosters a lifelong community that enables all Columbia Business School (CBS) women to achieve their personal and professional aspirations | https://www.cbswomen.org/our-mission |
+| Cornell | Society for Women in Business | Organization that helps students of all majors with each other and with professional leaders in the business world | http://cornellswib.strikingly.com/ |
+| Cornell | Society of Women Engineers | Cornell chapter of SWE | http://www.swe.cornell.edu/ |
+| Cornell | Technology Entrepreneurship at Cornell (TEC) | An organization of engineers, scientists, technologists, and like minded individuals interested in entrepreneurship coming together to foster understanding of the entrepreneurial process | http://orgsync.rso.cornell.edu/org/tec |
 | Cornell Tech | WiTNY | NY initiative for women in technology and entrepreneurship | https://tech.cornell.edu/impact/witny |
 | Harvard | four94 | Organization that provides mentorship, community, and launchpad for up-and-coming female founders | www.four94.org | 
 | Harvard | WECode | WiCS CS Conference (largest in the nation) | http://www.wecodeharvard.com/ |
@@ -50,14 +55,21 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | Olin | OPEN | Club to foster community and support a safe and supportive environment for LGBTQ people and allies | http://open.olin.edu/ |
 | Olin | Stay Late and Create (SLAC) | Club that's building community around tutorials, workshops, and group project meetings in an inclusive and collaborative environment | http://slac.io/ |
 | Olin | Society of Women Engineers | Olin SWE chapter | https://www.facebook.com/olincollegeswe/ |
-| Penn | Wharton Women | Organization that facilitates the personal and career development of females in business | http://www.whartonwomen-penn.com/ |
 | Penn | Black Wharton | A dynamic organization that seeks to develop professional, social, and academic opportunities for African-American undergraduates interested in business or business-related issues | http://www.blackwhartonundergrad.com/ |
-| Penn | Wharton Latino | Undergraduate organization established with the purpose of promoting and bringing together the Latino community and those interested in Latin America | http://www.whartonlatino.org/ | 
 | Penn | Society of Women Engineers | Penn SWE chapter | https://fling.seas.upenn.edu/~swe/cgi-bin/ |
-| Tufts | National Society of Black Engineers | Student chapter of NSBE | https://sites.tufts.edu/nsbe/ |
+| Penn | Wharton Latino | Undergraduate organization established with the purpose of promoting and bringing together the Latino community and those interested in Latin America | http://www.whartonlatino.org/ | 
+| Penn | Wharton Women | Organization that facilitates the personal and career development of females in business | http://www.whartonwomen-penn.com/ |
+| Princeton | Entrepreneurship Club | Organization that aims to foster student entrepreneurship at Princeton | http://www.princetoneclub.com/ |
+| Princeton | National Society of Black Engineers | Princeton chapter of NSBE, an organization to aid the professional and academic development of Black engineers and students in the math/sciences | https://nsbepu.weebly.com/ |
+| Princeton | ReModels | Organization that provides access to the engineering field and changes the perception of engineering for future generations through an applied design experience and vibrant community | https://www.facebook.com/ReModelsPrinceton/ |
+| Princeton | Society of Women Engineers | Princeton chapter of SWE | https://www.princeton.edu/~swe/ |
+| Princeton | Women in Business | Organization that seeks to empower a vibrant community of imaginative and entrepreneurial Princeton women through business exposure and experience via business-skills workshops, panels, and off-campus company visits  | https://www.princeton.edu/~pwib/ | 
+| Princeton | Women in Computer Science | Organization with the goal of 1)supporting and mentoring women in the computer science department, and 2) doing outreach programs to interest young women in computer science | https://princetonwics.wordpress.com/ |
+| Tufts | National Society of Black Engineers | Tufts chapter of NSBE | https://sites.tufts.edu/nsbe/ |
 | Tufts | Out in Science, Technology, Engineering and Mathematics (OSTEM) | Club for students in STEM majors who identify as LGBTQ | https://www.facebook.com/tufts.ostem |
 | Tufts | WiCS | Group for women in computer science | http://tuftswics.github.io/ |
 | Wellesley | CS Club | Club for computer science | https://www.facebook.com/Wellesley-CS-Club-856871510992038/ |
 | Wellesley | WeStart | Club for entrepreneurship | https://www.facebook.com/wellesleystartup/ |
 | Wellesley | WHACK | Hackathon that celebrates diversity in tech | http://wellesleyhacks.org/ |
 | Yale | Smart Women Securities | Women's finance network and group | http://www.smartwomansecurities.com/yale/ |
+| Yale | Women in Science At Yale (WISAY) | Group dedicated to promoting the interests of women in science, technology, engineering, and mathematics (STEM), supporting women scientists, and advocating for gender equality in all fields | http://wisay.sites.yale.edu/ |
