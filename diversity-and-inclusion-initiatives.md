@@ -4,8 +4,8 @@ Below is a crowdsourced list of D&I initiatives/groups present at various colleg
 | School          | Initiative/Group           | Description            | Link(s)                         |
 | --------------- |----------------------------| -----------------------| ------------------------------- |
 | Babson | ALPFA | Babson chapter of Association of Latino Professionals For America | https://engage.babson.edu/organization/alpfa |
-| Babson | eTower | Community for student entrepreneurs | https://engage.babson.edu/organization/etower |
 | Babson | Babson Code | Group to help students develop technological skill sets to match their entrepreneurial mindsets | https://www.babsoncode.com/ |
+| Babson | eTower | Community for student entrepreneurs | https://engage.babson.edu/organization/etower |
 | Babson | Babson Lean In Circle | Lean In chapter that provides a network of professional women with supporting resources to empower and encourage them to achieve | https://www.facebook.com/babsonleanincircle/ |
 | Boston College | Boston College Women's Summit |  One-day summit that aspires to empower women of all backgrounds to realize their individual and collective potential to rise together and enact change | http://www.bcownit.com/ |
 | Boston College | Women in Business | Organization, network, and community of undergraduate female students dedicated to their empowerment and education | http://www.bcwib.com/ |
