@@ -182,7 +182,7 @@ In an effort to both celebrate existing diversity and inclusion initiatives acro
 
 * [Stay Late and Create (SLAC):](meet.olin.edu/olin-isms/stay-late-and-create-slac) SLAC is building community around tutorials, workshops, and group project meetings in an inclusive and collaborative environment.
 
-![Wharton](img/wharton.png)
+![Penn](img/penn.png)
 
 * [Black Wharton:](www.blackwhartonundergrad.com/) Black Wharton is a dynamic organization that seeks to develop professional, social, and academic opportunities for African-American undergraduates interested in business or business-related issues.
 
