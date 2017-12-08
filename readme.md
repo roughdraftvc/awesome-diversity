@@ -1,4 +1,4 @@
-### Awesome Diversity: A curated list of diversity resources at universities
+### Diversity & Inclusion across Rough Draft Ventures’ University Network
 
 At RDV, we work with hundreds of next-generation technology leaders who have the power to drive change through the frontier technologies they are building and address key challenges facing the technology industry, including diversity and inclusion. 
 
