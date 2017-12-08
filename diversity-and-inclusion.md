@@ -250,7 +250,7 @@ In an effort to both celebrate existing diversity and inclusion initiatives acro
 
 * * *
 
-If we’re missing your school or group/initiative, let us know! 
+If we’re missing your school or group/initiative, let us know (and feel free to submit a PR)! 
 
 * * *
 
